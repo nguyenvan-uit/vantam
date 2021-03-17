@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ham", "Ham\Ham.vcxproj", "{67AD37A6-BB1A-448F-8F10-1748C7D01D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Debug|x64.ActiveCfg = Debug|x64
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Debug|x64.Build.0 = Debug|x64
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Debug|x86.ActiveCfg = Debug|Win32
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Debug|x86.Build.0 = Debug|Win32
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Release|x64.ActiveCfg = Release|x64
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Release|x64.Build.0 = Release|x64
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Release|x86.ActiveCfg = Release|Win32
+		{67AD37A6-BB1A-448F-8F10-1748C7D01D11}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50146C7-2A75-4409-82F4-417C799652A8}
+	EndGlobalSection
+EndGlobal
